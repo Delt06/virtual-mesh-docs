@@ -16,7 +16,9 @@ Core features:
 - **Streaming** – mesh vertices and triangles get dynamically loaded/unloaded based on what is currently used and requested on the GPU.
 
 {: .note}
-Everything runs in Unity 6 + URP + Direct3D11, with no strict hardware requirements (no need for Mesh Shader support).
+> Everything runs in Unity 6 + URP + Direct3D11, with no strict hardware requirements (no need for Mesh Shader support).
+> 
+> More on platform support [here]({% link supported_platforms.md %}).
 
 <html>
     <video controls width="85%"><source src="/assets/videos/home_page_video.mp4" type="video/mp4" /><video>

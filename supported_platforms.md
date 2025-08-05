@@ -22,7 +22,7 @@ nav_order: -999
 
 ## Render Pipelines
 
-- Universal Render Pipeline
+- Universal Render Pipeline (URP)
 
 ## Operating Systems
 
@@ -36,4 +36,3 @@ nav_order: -999
 - Direct3D12
 - Vulkan
 - Metal
-  
