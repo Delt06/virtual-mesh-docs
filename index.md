@@ -4,7 +4,7 @@ layout: home
 nav_order: -1000
 ---
 
-# Welcome to Virtual Mesh!
+# Welcome to Virtual Mesh Docs!
 
 Virtual Mesh is a Nanite-inspired virtualized geometry solution for Unity.
 
