@@ -1,6 +1,7 @@
 title : Virtual Mesh
 url: "https://virtualmesh.deltation.com/"   
 theme: just-the-docs
+favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: dark
 heading_anchors: true
