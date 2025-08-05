@@ -5,6 +5,23 @@ theme: just-the-docs
 color_scheme: dark
 heading_anchors: true
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: pink
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: grey-lt
+  warning:
+    title: Warning
+    color: yellow
+
 exclude:
   - README.md
   - CONTRIBUTING.md

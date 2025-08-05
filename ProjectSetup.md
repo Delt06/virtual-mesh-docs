@@ -1,21 +1,22 @@
 ---
 title: Project Setup
 layout: default
+nav_order: -998
 ---
 
-# Project Setup <!-- omit from toc -->
+# Project Setup 
+{: .no_toc }
 
-## Table of Contents <!-- omit from toc -->
+## Table of contents
+{: .no_toc .text-delta }
 
-- [Initialization](#initialization)
-- [Converting Shaders](#converting-shaders)
-- [Preparing Renderers](#preparing-renderers)
-- [Validating](#validating)
-- [Automatic Conversion Tool: Convert Open Scenes](#automatic-conversion-tool-convert-open-scenes)
+1. TOC
+{:toc}
 
 ## Initialization
 
-> ⚠️ IMPORTANT: Before installing Virtual Mesh, make sure to create a back-up of the project!
+{: .warning }
+Before installing Virtual Mesh, make sure to create a back-up of the project!
 
 After adding the Virtual Mesh package to the project, find `VirtualMeshConfig`, which will be automatically created at `Assets/Resources/VirtualMesh`. Open it to see whether Virtual Mesh has been successfully initialized. If not, it will display errors with instructions on how to fix them.
 
@@ -31,7 +32,8 @@ Virtual Mesh requires using shaders specifically made for it. Only certain types
 
 ## Preparing Renderers 
 
-> 📝 IMPORTANT: Virtual Mesh supports only `Mesh Renderers`!
+{: .important}
+Virtual Mesh supports only `Mesh Renderers`!
 
 For a renderer to use Virtual Mesh, it should have a `Virtual Mesh Renderer` component. Click `Add Component` > `Virtual Mesh` > `Virtual Mesh Renderer`.
 

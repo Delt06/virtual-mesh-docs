@@ -3,15 +3,18 @@ title: Configuring Quality
 layout: default
 ---
 
-# Configuring Quality <!-- omit from toc -->
+# Configuring Quality
+{: .no_toc }
 
 Virtual Mesh provides multiple quality parameters, which are expressed as target error values. Error here means relative geometrical error, which occurs during mesh simplification. Coarser LODs have higher error and vice versa. Target error controls what error should we aim when selecting LODs on the GPU.
 
-## Table of Contents <!-- omit from toc -->
+## Table of contents
+{: .no_toc .text-delta }
 
-- [Global Settings (VirtualMeshConfig)](#global-settings-virtualmeshconfig)
-- [Scene Settings (Volume Component)](#scene-settings-volume-component)
-- [Renderer Settings (Virtual Mesh Renderer)](#renderer-settings-virtual-mesh-renderer)
+1. TOC
+{:toc}
+
+---
 
 ## Global Settings (VirtualMeshConfig)
 
