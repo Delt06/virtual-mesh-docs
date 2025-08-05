@@ -1,0 +1,14 @@
+title : Virtual Mesh
+baseurl : ""   
+theme: just-the-docs
+
+color_scheme: dark
+heading_anchors: true
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - "*.bat"
+  - "*.sh"
