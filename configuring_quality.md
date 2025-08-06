@@ -6,7 +6,7 @@ layout: default
 # Configuring Quality
 {: .no_toc }
 
-Virtual Mesh provides multiple quality parameters, which are expressed as target error values. Error here means relative geometrical error, which occurs during mesh simplification. Coarser LODs have higher error and vice versa. Target error controls what error should we aim when selecting LODs on the GPU.
+Virtual Mesh provides multiple quality parameters, which are expressed as target error values. Error here means relative geometrical error, which occurs during mesh simplification. Coarser LODs have higher error and vice versa. Target error controls what error we should aim when selecting LODs on the GPU.
 
 ## Table of contents
 {: .no_toc .text-delta }
